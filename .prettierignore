@@ -9,8 +9,10 @@ coverage
 # Production
 build
 dist
-.vuepress/.temp
-.vuepress/.cache
+# public 目录
+public
+# static 静态资源
+**/static
 
 # Misc
 .DS_Store
