@@ -8,8 +8,7 @@
     </a>
   </div>
 </template>
-<script setup lang="ts">
-</script>
+<script setup lang="ts"></script>
 <style lang="scss" scoped>
 .logo {
   height: 6em;
